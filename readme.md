@@ -1,6 +1,6 @@
 # This is damn lab. work
 
-`Task: Write a binary tree. search leaves at the current level`
+`Task: Write a binary tree. search and count leaves at the current level`
 
 *main mthod realiation:*
 
