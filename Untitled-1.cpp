@@ -91,7 +91,7 @@ public:
             PrintTreeLR(Tree->left, level+1, "L");
         }
         else 
-            std::cout << "\n"; //std::endl;
+            std::cout << std::endl;
     }
 };
 
