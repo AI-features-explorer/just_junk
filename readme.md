@@ -1,4 +1,4 @@
-# This is damn lab. work
+# This is lab. work
 
 `Task: Write a binary tree. search and count leaves at the current level`
 
